@@ -1,3 +1,4 @@
+# Details
 -----------------------
 #### For Developers
 This project is a project i am very passionate about and have dedicated countless hours,
@@ -19,18 +20,43 @@ because friends might suck but developers are forever.
 
 
 ---------------
-# The Website.
+# What is Languages are Used ?
+* C
+* C# 
+* CCS
+* HTML
+* JS
+* (update as advancement)
+
+---------------
+---------------
+
+### Features.
 
 ---------------
 
-# The System.
+### Platforms.
+
+---------------
+### The Website.
 
 ---------------
 
-# Features.
+### The System.
 
 ---------------
 
-# Platforms.
+### Features.
 
 ---------------
+
+### Platforms.
+
+---------------
+
+:book: Please Note:
+
+This project was designed in visual studio 2019 and on multiple devices
+over the months i lost track of it due to a string of events and so
+The files and such will be added once i find them and sort out my Drive
+my drive is in a state of utter chaos used the same Drive when i was in middle school.
