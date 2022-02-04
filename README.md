@@ -8,7 +8,7 @@ All i ask is that if jou like, hate, or have feedback
 please let me know in the Discussions section
 because friends might suck but developers are forever.
 
-* [Usage](https://)      
+* [Usage](https://github.com/DonovanSnow-Dev/Management-System/blob/main/documentation/Usage.md)      
  usage of this as a template for developing your own project,
  is permited as long as a few things are promised. find out more from the usage section above
 * [Development Process](https://)
