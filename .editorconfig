@@ -1,0 +1,13 @@
+
+# top-Most EditorConfig file
+root = true
+
+[*]
+
+end_ofline = crif
+
+[*.{vb,xaml}]
+indent_style = space
+indent_size = 4
+trim_trailing_whitespace =true
+insert_final_newline = true

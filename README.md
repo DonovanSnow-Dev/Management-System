@@ -21,14 +21,9 @@ because friends might suck but developers are forever.
 
 ---------------
 # What is Languages are Used ?
-* C
-* C# 
-* CCS
-* HTML
-* JS
-* (update as advancement)
-
 ---------------
+# Resources Used 
+* [Template Studio]()
 ---------------
 
 ### Features.
