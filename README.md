@@ -55,3 +55,5 @@ This project was designed in visual studio 2019 and on multiple devices
 over the months i lost track of it due to a string of events and so
 The files and such will be added once i find them and sort out my Drive
 my drive is in a state of utter chaos used the same Drive when i was in middle school.
+at first i wanted to use the Template studio wizard , but i instead decided to use it as a sort
+of base without the templates offerd
