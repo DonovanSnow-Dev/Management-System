@@ -20,24 +20,44 @@ because friends might suck but developers are forever.
 
 
 ---------------
-# What is Languages are Used ?
+# Environments:
+* Android Studio 
+* Visual Studio 2019
+* Sublime Text
+* Node js  
 ---------------
-# Resources Used 
+
+---------------
+# Languages:
+* XLM 
+* C#
+* HTML
+---------------
+# Template's Used
 * [Template Studio]()
+* 
 ---------------
 
 ### Features.
+* Pipe-Line
 
 ---------------
 
 ### Platforms.
+* Android
+* Windows
 
 ---------------
 ### The Website.
+NB
+This is used by the customers rather then the staff, i mean they can also visit it if they realy wanted to spend their free
+Time browsing the work place website 
 
 ---------------
 
 ### The System.
+* on the go or the office 
+* manage various aspects of a company   
 
 ---------------
 
