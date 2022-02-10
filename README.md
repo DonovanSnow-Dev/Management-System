@@ -1,24 +1,21 @@
 # Details
 -----------------------
 #### For Developers
-This project is a project i am very passionate about and have dedicated countless hours,
-And probably a chunk of my sanity.
-While this project is in development i would appreciate any feedback and sugestions.
-This project is 100% open source and licensed under MIT,
-All i ask is that if jou like, hate, or have feedback
-please let me know in the Discussions section
-because friends might suck but developers are forever.
+In Progress Fork and clone to use - Open Source side project.
 
-* [Usage](https://github.com/DonovanSnow-Dev/Management-System/blob/main/documentation/Usage.md)      
- usage of this as a template for developing your own project,
- is permited as long as a few things are promised. find out more from the usage section above
+Originally this was a unknown repository then i got a freelance reqeust by a company
+so i decide to add it to github and update it as i progress.
+It is an open source project so if you want to use it or parts of it for your own project 
+fork and clone then create something great
+
+* [Repo](https://github.com/DonovanSnow-Dev/Management-System/blob/main/documentation/Usage.md)      
+
 * [Development Process](https://)
-* [Rules](https://)  
-* [Contribution](https://)                
-* [Sponsor](https://)
-* [Credit](https://)                  
-
-
+* [Comments](https://)  
+* [Resources](https://)                
+* [Environments](https://)
+* [Updates](https://)                  
+* 
 ---------------
 # Environments:
 * Android Studio 
@@ -33,9 +30,9 @@ because friends might suck but developers are forever.
 * C#
 * HTML
 ---------------
-# Template's Used
-* [Template Studio]()
-* 
+# Resources 
+* [Microsoft-Template Studio](https://github.com/microsoft)
+* []
 ---------------
 
 ### Features.
