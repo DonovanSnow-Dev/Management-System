@@ -63,7 +63,8 @@ Time browsing the work place website
 ---------------
 
 ### Platforms.
-
+* Android App 
+Using Android Studio login Template as a foundation.
 ---------------
 
 :book: Please Note:
